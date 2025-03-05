@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:63812/</loc>
+    <loc>https://rahul-gamedev.github.io/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:63812/categories/</loc>
+    <loc>https://rahul-gamedev.github.io/categories/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:63812/posts/</loc>
+    <loc>https://rahul-gamedev.github.io/posts/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:63812/posts/sample/</loc>
+    <loc>https://rahul-gamedev.github.io/posts/sample/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:63812/categories/updates/</loc>
+    <loc>https://rahul-gamedev.github.io/categories/updates/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:63812/tags/</loc>
+    <loc>https://rahul-gamedev.github.io/tags/</loc>
   </url>
 </urlset>
