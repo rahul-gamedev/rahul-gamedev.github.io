@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>All on Rahul R</title>
+    <link>http://localhost:1313/categories/all/</link>
+    <description>Recent content in All on Rahul R</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Sat, 27 Aug 2022 09:16:45 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/posts/blog-setup/</link>
+      <pubDate>Sat, 27 Aug 2022 09:16:45 +0000</pubDate>
+      <guid>http://localhost:1313/posts/blog-setup/</guid>
+      <description>&lt;p&gt;asdasd slsdl kasd&lt;/p&gt;&#xA;&lt;p&gt;asd;saldlk&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
