@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rahul R</title>
-    <link>https://rahul-gamedev.github.io/</link>
-    <description>Recent content on Rahul R</description>
+    <title>Project on Rahul R</title>
+    <link>https://rahul-gamedev.github.io/categories/project/</link>
+    <description>Recent content in Project on Rahul R</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>{year}</copyright>
     <lastBuildDate>Mon, 10 Mar 2025 10:00:00 +0000</lastBuildDate>
-    <atom:link href="https://rahul-gamedev.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rahul-gamedev.github.io/categories/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building my Startup in Public</title>
       <link>https://rahul-gamedev.github.io/posts/building-my-startup-in-public/</link>
